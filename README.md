@@ -1,11 +1,18 @@
-# projetoAluraGeminiFIAP
-Projeto Alura + Gemini + FIAP
+# 🌍 Projeto AluraGeminiFIAP  
+**Maio/2024**  
+Projeto realizado em parceria entre **Alura + Gemini + FIAP** para a 2ª edição da imersão em **Inteligência Artificial** 🤖
 
-O projeto de ChatBot de viagens é capaz de ajudar o usuário no planejamento das suas próximas aventuras, a partir de informações, como o destino, data e interesses pessoais. O chat criará uma lista de ideias e sugestões personalizadas para tornar a viagem ainda mais agradável.
+O projeto **ChatBot de Viagens** é capaz de auxiliar os usuários no planejamento de suas próximas aventuras, fornecendo informações baseadas no destino, data e interesses pessoais. O chat cria uma lista de ideias e sugestões personalizadas para tornar a viagem ainda mais agradável.
 
-#Funcionamento do Chat:
-- usuario fornece o destino (local que a viagem será realizada)
-- data em formato dia, mês e ano (a IA irá identificar a estação da viagem, assim, adaptando os passeios que podem ser realizados)
-- interesses (as preferências do usuário serão seguidas para passar as dicas personalizadas)
+## 🚀 Funcionamento do Chat:
+1. **Destino**: O usuário fornece o local onde a viagem será realizada 🌍
+2. **Data**: Informada em formato dia, mês e ano 📅 (A IA identificará a estação do ano e adaptará os passeios que podem ser realizados conforme o clima)
+3. **Interesses**: O usuário insere suas preferências, e o chatbot fornecerá dicas personalizadas baseadas nelas 🎯
 
-- Saída: o chat fornece um roteiro personalizado com base nas escolhas de preferências, contando com pontos turíticos, alimentação, estadia, transporte e ótimas dicas para tornar a viagem ainda melhor.
+### 💡 **Saída**:  
+O chatbot retorna um roteiro personalizado baseado nas preferências do usuário, incluindo pontos turísticos 🗺️, alimentação 🍽️, estadia 🏨, transporte 🚗, e ótimas dicas para tornar a viagem ainda mais especial ✈️.
+
+## 🛠️ Ferramentas Utilizadas:
+- **Google Colaboratory** 🖥️  
+- **Gemini** 🌐  
+- **Linguagem Utilizada**: Python  
